@@ -1,0 +1,5 @@
+To Do List in 2021
+- learn more about javascript
+- learn another language : pyhton, php, java, golang
+- build a responsive website
+- get a job
