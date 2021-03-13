@@ -3,3 +3,4 @@ RENCANA BELAJAR
 - belajar node js
 - belajar database
 - belajar framework css
+- belajar c++
