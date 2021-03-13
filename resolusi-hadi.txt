@@ -4,4 +4,4 @@ To Do List in 2021
 - build a responsive website
 - get a job
 - learn UI/UX design
-- finish front end developer roadmap
+
