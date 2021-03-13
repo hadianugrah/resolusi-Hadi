@@ -1,0 +1,3 @@
+RENCANA BELAJAR
+- belajar react js
+- belajar node js
