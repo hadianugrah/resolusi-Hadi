@@ -3,4 +3,7 @@ RENCANA BELAJAR
 - belajar node js
 - belajar database
 - belajar framework css
+  * tailwind
+  * bootstrap
 - belajar c++
+- belajar tentang css pre processor
